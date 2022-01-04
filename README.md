@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on 을지대학교 의료IT
-- 🌱 I’m currently learning JAVA, DB, JSP, SPRING
+- 🌱 I’m currently learning JAVA, DB, JSP, SPRING, MyBatis
 - 📫 How to reach me: 
 - ⚡ Fun fact: 열심히 공부 중이에요
 
