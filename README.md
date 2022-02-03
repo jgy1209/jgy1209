@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Eulji (Medical IT)
 - 🌱 I’m currently learning JAVA, DB, JSP, SPRING, MyBatis
-- 📫 How to reach me: jgy1209@naver.com
+- 📫 How to reach me: https://jgy1209.notion.site/jgy1209/2fb6341e2bd0466a8176369f48cb2782
 - ⚡ Fun fact: 열심히 공부 중이에요
 
 <!--
