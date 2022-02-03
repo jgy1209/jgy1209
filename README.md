@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on 을지대학교 의료IT
+- 🔭 I’m currently working on Eulji (Medical IT)
 - 🌱 I’m currently learning JAVA, DB, JSP, SPRING, MyBatis
-- 📫 How to reach me: 
+- 📫 How to reach me: jgy1209@naver.com
 - ⚡ Fun fact: 열심히 공부 중이에요
 
 <!--
